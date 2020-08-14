@@ -2,6 +2,7 @@
 
 My first Flutter app tutorial
 
+lib > main.dart folder:
 
 -  MaterialApp ve Scaffold Widget örnek
 -  FloatingActionButton ve MaterialDesign uygulaması
